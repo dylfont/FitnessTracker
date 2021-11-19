@@ -44,7 +44,7 @@ https://
 
 ## About The Project
 
-![Workout Tracker Screenshot](./)
+https://fitness-tracker-djf.herokuapp.com/
 
 ### Built With
 
